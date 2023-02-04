@@ -26,25 +26,26 @@ of the EMPLOYEE, it has attributes namely paygrade_id, employee_id,job_title,job
 ER Toll Usage
 The ERD tool that we have used is an online ERD-making tool called ERDPlus.
 ERDPlus is a web-based database modeling tool that lets you quickly and easily create
-● Entity Relationship Diagrams (ERDs)
-● Relational Schemas (Relational Diagrams)
-● Star Schemas (Dimensional Models) More features
-● Automatically convert ER Diagrams into Relational Schemas ● Export SQL
-● Export diagrams as a PNG
-● Save diagrams safely on our server
+
+* Entity Relationship Diagrams (ERDs)
+* Relational Schemas (Relational Diagrams)
+* Star Schemas (Dimensional Models) More features
+* Automatically convert ER Diagrams into Relational Schemas ● Export SQL
+* Export diagrams as a PNG
+* Save diagrams safely on our server
 ERDPlus enables drawing standard ERD components.
-● Entities
-● Attributes
-● Relationships
+* Entities
+* Attributes
+* Relationships
 The notation supports drawing regular and weak entities, various types of attributes (regular, unique, multi-valued, derived, composite, and
 optional), and all possible cardinality constraints of relationships (mandatory-many, optional-many, mandatory-one and optional-one).
 ERDPlus enables drawing standard Relational Schema components
-● Tables (Relations)
-● Table Columns (including Primary and Foreign Keys)
-● Referential Integrity Constraint Lines (pointing from a Foreign Key to the Primary Key it refers to)
+* Tables (Relations)
+* Table Columns (including Primary and Foreign Keys)
+* Referential Integrity Constraint Lines (pointing from a Foreign Key to the Primary Key it refers to)
 The tool supports quick creation of foreign keys and referential integrity lines by simple click-point-connect actions. This simplifies and quickens the process of creating relational schemas.
 Convert ER Diagrams
 ERDPlus enables automatic conversion of ER Diagrams to Relational Schemas with one click of a button. This vastly speeds up the process of creating a Relational Schema based on an ER Diagram.
 ERDPlus enables drawing Star Schema components: ● Fact Tables (Facts)
-● Dimension Tables (Dimensions)
+* Dimension Tables (Dimensions)
 The notation distinguishes fact tables from dimension tables by using a thicker frame around fact tables. This makes star schema diagrams easier to interpret. As with relational schemas, the tool supports quick creation of foreign keys and referential integrity lines by simple click-point- connect actions. This simplifies and quickens the process of creating star schemas.
