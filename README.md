@@ -30,7 +30,7 @@ ERDPlus is a web-based database modeling tool that lets you quickly and easily c
 * Entity Relationship Diagrams (ERDs)
 * Relational Schemas (Relational Diagrams)
 * Star Schemas (Dimensional Models) More features
-* Automatically convert ER Diagrams into Relational Schemas ● Export SQL
+* Automatically convert ER Diagrams into Relational Schemas * Export SQL
 * Export diagrams as a PNG
 * Save diagrams safely on our server
 ERDPlus enables drawing standard ERD components.
